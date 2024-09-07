@@ -1,0 +1,71 @@
+Sandbox_EN = {
+    Sandbox_BuildingMenu_ExtraNoiseFlagCategoryDivider = "_______________ ExtraNoise Flag Tiles Specific Categories _______________",
+    Sandbox_BuildingMenu_ExtraNoiseFlagCategoryDivider_tooltip = "This is only a line separator, checking it has no effect.",
+
+    Sandbox_BuildingMenu_extraNoiseFlagLocalUSA = "Enable Local USA Flag Subcategory",
+    Sandbox_BuildingMenu_extraNoiseFlagLocalUSA_tooltip = "Enable to add Local USA flags. <LINE><LINE> <RGB:1,0,0> EXIT AND REENTER SAVE TO APPLY CHANGES!",
+
+    Sandbox_BuildingMenu_extraNoiseFlagLocalMixed = "Enable Local Mixed Flag Subcategory",
+    Sandbox_BuildingMenu_extraNoiseFlagLocalMixed_tooltip = "Enable to add Local Mixed flags. <LINE><LINE> <RGB:1,0,0> EXIT AND REENTER SAVE TO APPLY CHANGES!",
+
+    Sandbox_BuildingMenu_extraNoiseFlagMiscRandom = "Enable Misc Random Flag Subcategory",
+    Sandbox_BuildingMenu_extraNoiseFlagMiscRandom_tooltip = "Enable to add Misc Random flags. <LINE><LINE> <RGB:1,0,0> EXIT AND REENTER SAVE TO APPLY CHANGES!",
+
+    Sandbox_BuildingMenu_extraNoiseFlagMiscOrg = "Enable Misc Org Flag Subcategory",
+    Sandbox_BuildingMenu_extraNoiseFlagMiscOrg_tooltip = "Enable to add Misc Org flags. <LINE><LINE> <RGB:1,0,0> EXIT AND REENTER SAVE TO APPLY CHANGES!",
+
+    Sandbox_BuildingMenu_extraNoiseFlagMiscPride = "Enable Misc Pride Flag Subcategory",
+    Sandbox_BuildingMenu_extraNoiseFlagMiscPride_tooltip = "Enable to add Misc Pride flags. <LINE><LINE> <RGB:1,0,0> EXIT AND REENTER SAVE TO APPLY CHANGES!",
+
+    Sandbox_BuildingMenu_extraNoiseFlagMiscReddit = "Enable Misc Reddit Flag Subcategory",
+    Sandbox_BuildingMenu_extraNoiseFlagMiscReddit_tooltip = "Enable to add Misc Reddit flags. <LINE><LINE> <RGB:1,0,0> EXIT AND REENTER SAVE TO APPLY CHANGES!",
+
+    Sandbox_BuildingMenu_extraNoiseFlagMiscFictional = "Enable Misc Fictional Flag Subcategory",
+    Sandbox_BuildingMenu_extraNoiseFlagMiscFictional_tooltip = "Enable to add Misc Fictional flags. <LINE><LINE> <RGB:1,0,0> EXIT AND REENTER SAVE TO APPLY CHANGES!",
+
+    Sandbox_BuildingMenu_extraNoiseFlagMiscProtest = "Enable Misc Protest Flag Subcategory",
+    Sandbox_BuildingMenu_extraNoiseFlagMiscProtest_tooltip = "Enable to add Misc Protest flags. <LINE><LINE> <RGB:1,0,0> EXIT AND REENTER SAVE TO APPLY CHANGES!",
+
+    Sandbox_BuildingMenu_extraNoiseFlagMiscColors = "Enable Misc Colors Flag Subcategory",
+    Sandbox_BuildingMenu_extraNoiseFlagMiscColors_tooltip = "Enable to add Misc Colors flags. <LINE><LINE> <RGB:1,0,0> EXIT AND REENTER SAVE TO APPLY CHANGES!",
+
+    Sandbox_BuildingMenu_extraNoiseFlagNationalMideast = "Enable National Mideast Flag Subcategory",
+    Sandbox_BuildingMenu_extraNoiseFlagNationalMideast_tooltip = "Enable to add National Mideast flags. <LINE><LINE> <RGB:1,0,0> EXIT AND REENTER SAVE TO APPLY CHANGES!",
+
+    Sandbox_BuildingMenu_extraNoiseFlagNationalAfrica = "Enable National Africa Flag Subcategory",
+    Sandbox_BuildingMenu_extraNoiseFlagNationalAfrica_tooltip = "Enable to add National Africa flags. <LINE><LINE> <RGB:1,0,0> EXIT AND REENTER SAVE TO APPLY CHANGES!",
+
+    Sandbox_BuildingMenu_extraNoiseFlagNationalNative = "Enable National Native Flag Subcategory",
+    Sandbox_BuildingMenu_extraNoiseFlagNationalNative_tooltip = "Enable to add National Native flags. <LINE><LINE> <RGB:1,0,0> EXIT AND REENTER SAVE TO APPLY CHANGES!",
+
+    Sandbox_BuildingMenu_extraNoiseFlagNationalOceania = "Enable National Oceania Flag Subcategory",
+    Sandbox_BuildingMenu_extraNoiseFlagNationalOceania_tooltip = "Enable to add National Oceania flags. <LINE><LINE> <RGB:1,0,0> EXIT AND REENTER SAVE TO APPLY CHANGES!",
+
+    Sandbox_BuildingMenu_extraNoiseFlagNationalAsia = "Enable National Asia Flag Subcategory",
+    Sandbox_BuildingMenu_extraNoiseFlagNationalAsia_tooltip = "Enable to add National Asia flags. <LINE><LINE> <RGB:1,0,0> EXIT AND REENTER SAVE TO APPLY CHANGES!",
+
+    Sandbox_BuildingMenu_extraNoiseFlagNationalHistorical = "Enable National Historical Flag Subcategory",
+    Sandbox_BuildingMenu_extraNoiseFlagNationalHistorical_tooltip = "Enable to add National Historical flags. <LINE><LINE> <RGB:1,0,0> EXIT AND REENTER SAVE TO APPLY CHANGES!",
+
+    Sandbox_BuildingMenu_extraNoiseFlagNationalMixed = "Enable National Mixed Flag Subcategory",
+    Sandbox_BuildingMenu_extraNoiseFlagNationalMixed_tooltip = "Enable to add National Mixed flags. <LINE><LINE> <RGB:1,0,0> EXIT AND REENTER SAVE TO APPLY CHANGES!",
+
+    Sandbox_BuildingMenu_extraNoiseFlagNationalMovements = "Enable National Movements Flag Subcategory",
+    Sandbox_BuildingMenu_extraNoiseFlagNationalMovements_tooltip = "Enable to add National Movements flags. <LINE><LINE> <RGB:1,0,0> EXIT AND REENTER SAVE TO APPLY CHANGES!",
+
+    Sandbox_BuildingMenu_extraNoiseFlagNationalEurope = "Enable National Europe Flag Subcategory",
+    Sandbox_BuildingMenu_extraNoiseFlagNationalEurope_tooltip = "Enable to add National Europe flags. <LINE><LINE> <RGB:1,0,0> EXIT AND REENTER SAVE TO APPLY CHANGES!",
+
+    Sandbox_BuildingMenu_extraNoiseFlagNationalAmericas = "Enable National Americas Flag Subcategory",
+    Sandbox_BuildingMenu_extraNoiseFlagNationalAmericas_tooltip = "Enable to add National Americas flags. <LINE><LINE> <RGB:1,0,0> EXIT AND REENTER SAVE TO APPLY CHANGES!",
+
+    Sandbox_BuildingMenu_extraNoiseFlagRegionalUSA = "Enable Regional USA Flag Subcategory",
+    Sandbox_BuildingMenu_extraNoiseFlagRegionalUSA_tooltip = "Enable to add Regional USA flags. <LINE><LINE> <RGB:1,0,0> EXIT AND REENTER SAVE TO APPLY CHANGES!",
+
+    Sandbox_BuildingMenu_extraNoiseFlagRegionalCanada = "Enable Regional Canada Flag Subcategory",
+    Sandbox_BuildingMenu_extraNoiseFlagRegionalCanada_tooltip = "Enable to add Regional Canada flags. <LINE><LINE> <RGB:1,0,0> EXIT AND REENTER SAVE TO APPLY CHANGES!",
+
+    Sandbox_BuildingMenu_extraNoiseFlagRegionalEurope = "Enable Regional Europe Flag Subcategory",
+    Sandbox_BuildingMenu_extraNoiseFlagRegionalEurope_tooltip = "Enable to add Regional Europe flags. <LINE><LINE> <RGB:1,0,0> EXIT AND REENTER SAVE TO APPLY CHANGES!",
+
+}

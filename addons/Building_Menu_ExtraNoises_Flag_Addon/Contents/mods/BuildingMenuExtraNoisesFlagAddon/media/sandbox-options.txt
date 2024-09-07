@@ -1,0 +1,185 @@
+VERSION = 1,
+
+option BuildingMenu.ExtraNoiseFlagCategoryDivider
+{
+    type = boolean,
+    default = false,
+    page = BuildingMenu,
+    translation = BuildingMenu_ExtraNoiseFlagCategoryDivider,
+}
+
+option BuildingMenu.extraNoiseFlagLocalUSA
+{
+    type = boolean,
+    default = true,
+    page = BuildingMenu,
+    translation = BuildingMenu_extraNoiseFlagLocalUSA,
+}
+
+option BuildingMenu.extraNoiseFlagLocalMixed
+{
+    type = boolean,
+    default = true,
+    page = BuildingMenu,
+    translation = BuildingMenu_extraNoiseFlagLocalMixed,
+}
+
+option BuildingMenu.extraNoiseFlagMiscRandom
+{
+    type = boolean,
+    default = true,
+    page = BuildingMenu,
+    translation = BuildingMenu_extraNoiseFlagMiscRandom,
+}
+
+option BuildingMenu.extraNoiseFlagMiscOrg
+{
+    type = boolean,
+    default = true,
+    page = BuildingMenu,
+    translation = BuildingMenu_extraNoiseFlagMiscOrg,
+}
+
+option BuildingMenu.extraNoiseFlagMiscPride
+{
+    type = boolean,
+    default = true,
+    page = BuildingMenu,
+    translation = BuildingMenu_extraNoiseFlagMiscPride,
+}
+
+option BuildingMenu.extraNoiseFlagMiscReddit
+{
+    type = boolean,
+    default = true,
+    page = BuildingMenu,
+    translation = BuildingMenu_extraNoiseFlagMiscReddit,
+}
+
+option BuildingMenu.extraNoiseFlagMiscFictional
+{
+    type = boolean,
+    default = true,
+    page = BuildingMenu,
+    translation = BuildingMenu_extraNoiseFlagMiscFictional,
+}
+
+option BuildingMenu.extraNoiseFlagMiscProtest
+{
+    type = boolean,
+    default = true,
+    page = BuildingMenu,
+    translation = BuildingMenu_extraNoiseFlagMiscProtest,
+}
+
+option BuildingMenu.extraNoiseFlagMiscColors
+{
+    type = boolean,
+    default = true,
+    page = BuildingMenu,
+    translation = BuildingMenu_extraNoiseFlagMiscColors,
+}
+
+option BuildingMenu.extraNoiseFlagNationalMideast
+{
+    type = boolean,
+    default = true,
+    page = BuildingMenu,
+    translation = BuildingMenu_extraNoiseFlagNationalMideast,
+}
+
+option BuildingMenu.extraNoiseFlagNationalAfrica
+{
+    type = boolean,
+    default = true,
+    page = BuildingMenu,
+    translation = BuildingMenu_extraNoiseFlagNationalAfrica,
+}
+
+option BuildingMenu.extraNoiseFlagNationalNative
+{
+    type = boolean,
+    default = true,
+    page = BuildingMenu,
+    translation = BuildingMenu_extraNoiseFlagNationalNative,
+}
+
+option BuildingMenu.extraNoiseFlagNationalOceania
+{
+    type = boolean,
+    default = true,
+    page = BuildingMenu,
+    translation = BuildingMenu_extraNoiseFlagNationalOceania,
+}
+
+option BuildingMenu.extraNoiseFlagNationalAsia
+{
+    type = boolean,
+    default = true,
+    page = BuildingMenu,
+    translation = BuildingMenu_extraNoiseFlagNationalAsia,
+}
+
+option BuildingMenu.extraNoiseFlagNationalHistorical
+{
+    type = boolean,
+    default = true,
+    page = BuildingMenu,
+    translation = BuildingMenu_extraNoiseFlagNationalHistorical,
+}
+
+option BuildingMenu.extraNoiseFlagNationalMixed
+{
+    type = boolean,
+    default = true,
+    page = BuildingMenu,
+    translation = BuildingMenu_extraNoiseFlagNationalMixed,
+}
+
+option BuildingMenu.extraNoiseFlagNationalMovements
+{
+    type = boolean,
+    default = true,
+    page = BuildingMenu,
+    translation = BuildingMenu_extraNoiseFlagNationalMovements,
+}
+
+option BuildingMenu.extraNoiseFlagNationalEurope
+{
+    type = boolean,
+    default = true,
+    page = BuildingMenu,
+    translation = BuildingMenu_extraNoiseFlagNationalEurope,
+}
+
+option BuildingMenu.extraNoiseFlagNationalAmericas
+{
+    type = boolean,
+    default = true,
+    page = BuildingMenu,
+    translation = BuildingMenu_extraNoiseFlagNationalAmericas,
+}
+
+option BuildingMenu.extraNoiseFlagRegionalUSA
+{
+    type = boolean,
+    default = true,
+    page = BuildingMenu,
+    translation = BuildingMenu_extraNoiseFlagRegionalUSA,
+}
+
+option BuildingMenu.extraNoiseFlagRegionalCanada
+{
+    type = boolean,
+    default = true,
+    page = BuildingMenu,
+    translation = BuildingMenu_extraNoiseFlagRegionalCanada,
+}
+
+option BuildingMenu.extraNoiseFlagRegionalEurope
+{
+    type = boolean,
+    default = true,
+    page = BuildingMenu,
+    translation = BuildingMenu_extraNoiseFlagRegionalEurope,
+}
