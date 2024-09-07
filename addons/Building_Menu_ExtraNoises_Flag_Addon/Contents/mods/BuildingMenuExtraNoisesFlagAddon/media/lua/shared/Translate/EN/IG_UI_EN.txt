@@ -1,0 +1,36 @@
+IGUI_EN = {
+
+    IGUI_BuildingMenuTab_ExtraNoiseFlag = "ExtraNoise's Flags",
+
+    IGUI_BuildingMenuCat_ExtraNoiseFlag_local = "Local Flags",
+    IGUI_BuildingMenuCat_ExtraNoiseFlag_misc = "Misc Flags",
+    IGUI_BuildingMenuCat_ExtraNoiseFlag_national = "National Flags",
+    IGUI_BuildingMenuCat_ExtraNoiseFlag_regional = "Regional Flags",
+
+    IGUI_BuildingMenuCat_ExtraNoiseFlag_local_usa = "USA",
+    IGUI_BuildingMenuCat_ExtraNoiseFlag_local_mixed = "Mixed",
+
+    IGUI_BuildingMenuCat_ExtraNoiseFlag_misc_random = "Random",
+    IGUI_BuildingMenuCat_ExtraNoiseFlag_misc_org = "Org",
+    IGUI_BuildingMenuCat_ExtraNoiseFlag_misc_pride = "Pride",
+    IGUI_BuildingMenuCat_ExtraNoiseFlag_misc_reddit = "Reddit",
+    IGUI_BuildingMenuCat_ExtraNoiseFlag_misc_fictional = "Fictional",
+    IGUI_BuildingMenuCat_ExtraNoiseFlag_misc_protest = "Protest",
+    IGUI_BuildingMenuCat_ExtraNoiseFlag_misc_colors = "Colors",
+
+    IGUI_BuildingMenuCat_ExtraNoiseFlag_national_mideast = "Mideast",
+    IGUI_BuildingMenuCat_ExtraNoiseFlag_national_africa = "Africa",
+    IGUI_BuildingMenuCat_ExtraNoiseFlag_national_native = "Native",
+    IGUI_BuildingMenuCat_ExtraNoiseFlag_national_oceania = "Oceania",
+    IGUI_BuildingMenuCat_ExtraNoiseFlag_national_asia = "Asia",
+    IGUI_BuildingMenuCat_ExtraNoiseFlag_national_historical = "Historical",
+    IGUI_BuildingMenuCat_ExtraNoiseFlag_national_mixed = "Mixed",
+    IGUI_BuildingMenuCat_ExtraNoiseFlag_national_movements = "Movements",
+    IGUI_BuildingMenuCat_ExtraNoiseFlag_national_europe = "Europe",
+    IGUI_BuildingMenuCat_ExtraNoiseFlag_national_americas = "Americas",
+
+    IGUI_BuildingMenuCat_ExtraNoiseFlag_regional_usa = "USA",
+    IGUI_BuildingMenuCat_ExtraNoiseFlag_regional_canada = "Canada",
+    IGUI_BuildingMenuCat_ExtraNoiseFlag_regional_europe = "Europe",
+
+}

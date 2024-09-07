@@ -1,0 +1,6 @@
+name=Building Menu - ExtraNoise's Flag Tiles Addon
+poster=poster.png
+id=BuildingMenuExtraNoisesFlagAddon
+require=BuildingMenu,EN_Flags
+tags=Build 41,Misc,Multiplayer,Interface
+versionMin=41.0

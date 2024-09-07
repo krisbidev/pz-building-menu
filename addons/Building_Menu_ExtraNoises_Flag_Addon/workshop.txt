@@ -1,0 +1,6 @@
+version=1
+id=3238881965
+title=Building Menu [B41.78] - ExtraNoise's Flag Tiles Addon
+description=Ready to take your building experience up a notch? This is an add-on for the Building Menu that adds buildable objects from ExtraNoise's Flag Tilepack.
+tags=Build 41;Building;Framework;Interface;Realistic;Textures;Multiplayer
+visibility=public
