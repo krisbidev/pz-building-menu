@@ -177,4 +177,4 @@ local function addCategoriesToBuildingMenu()
     addExtraNoisesFlagsToMenu()
 end
 
-Events.OnGameStart.Add(addCategoriesToBuildingMenu)
+Events.OnInitializeBuildingMenuObjects.Add(addCategoriesToBuildingMenu)
